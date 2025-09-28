@@ -1,0 +1,23 @@
+# python cache
+__pycache__/
+*.pyc
+
+# poetry venv
+.venv/
+
+# local secrets/configs
+configs/runtime.local.yaml
+
+# results & data
+results/
+data/snapshot/
+data/batch_*/
+trash/
+*.pt 
+logs/
+
+# IDE
+.vscode/
+
+# local script private
+scripts/main3.py
