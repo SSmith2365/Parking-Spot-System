@@ -6,7 +6,7 @@ import numpy as np
 from datetime import datetime
 from pathlib import Path
 
-# Stream URL (***keep private in our actual code***)
+# Stream URL (placeholder for GitHub safe code)
 stream_url = "rtsp://<username>:<password>@<ip>:<port>/stream1"
 cap = cv2.VideoCapture(stream_url)
 
