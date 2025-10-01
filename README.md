@@ -10,3 +10,5 @@ This is my first time working with a Computer Vision model. My education was in 
 - Data, most results, and model weights are ignored to keep the repo small and secure.
 
 
+## YOLOv8's first prediction on cars
+![2b40bfa9-frame_20250715_234312](https://github.com/user-attachments/assets/e4ab4afd-42ea-404e-9106-4f827c6e22cd)
