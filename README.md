@@ -11,4 +11,5 @@ This is my first time working with a Computer Vision model. My education was in 
 
 
 ## YOLOv8's first prediction on cars
-![2b40bfa9-frame_20250715_234312](https://github.com/user-attachments/assets/e4ab4afd-42ea-404e-9106-4f827c6e22cd)
+![cv_yolo_picture](https://github.com/user-attachments/assets/70bb976c-ff92-41e7-846d-e81f0b3d4d47)
+
