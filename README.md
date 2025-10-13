@@ -20,4 +20,5 @@ Label Studio is installed via **pipx** in its own environment to avoid dependenc
 ```powershell
 pipx install "label-studio==1.21.0"
 label-studio
+``` 
 
