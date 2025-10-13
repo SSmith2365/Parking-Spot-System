@@ -13,3 +13,11 @@ This is my first time working with a Computer Vision model. My education was in 
 ## YOLOv8's first prediction on cars
 ![cv_yolo_picture](https://github.com/user-attachments/assets/70bb976c-ff92-41e7-846d-e81f0b3d4d47)
 
+
+## Labeling Environment (isolated)
+Label Studio is installed via **pipx** in its own environment to avoid dependency conflicts with the Poetry project.
+
+```powershell
+pipx install "label-studio==1.21.0"
+label-studio
+
